@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Elevate Events",
+    "subtitle": "Luxury redefined. Formerly Tribe – Music & Smoking Lounge",
+    "cta": "Book Now"
+  },
+  "about": {
+    "title": "From Tribe to Elevate",
+    "text": "Elevate Events GmbH represents a new era in luxury hospitality. Building on the legacy of Tribe – Music & Smoking Lounge, Elevate introduces a world-class experience where fine design, curated events, and exclusivity come together in perfect harmony."
+  },
+  "events": {
+    "title": "Upcoming Experiences",
+    "see_all": "See all events →"
+  },
+  "membership": {
+    "title": "Become a VIP Member",
+    "text": "Unlock exclusive access, special discounts, and priority bookings. Elevate your experience.",
+    "cta": "Join Now"
+  },
+  "gallery": {
+    "title": "Discover the Venue",
+    "cta": "View full gallery →"
+  }
+}

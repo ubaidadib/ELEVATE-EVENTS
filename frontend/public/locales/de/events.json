@@ -1,0 +1,12 @@
+{
+  "page_title": "Kommende Erlebnisse",
+  "no_events": "Derzeit sind keine Veranstaltungen geplant. Bitte schauen Sie bald wieder vorbei.",
+  "see_details": "Details ansehen",
+  "back": "Zurück zu den Veranstaltungen",
+  "detail": {
+    "date": "Datum",
+    "time": "Uhrzeit",
+    "location": "Ort",
+    "book": "Jetzt buchen"
+  }
+}

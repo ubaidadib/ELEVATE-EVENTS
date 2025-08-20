@@ -1,0 +1,21 @@
+{
+  "title": "Become a VIP Member",
+  "intro": "Unlock exclusive access, premium benefits, and priority bookings at Elevate Events.",
+  "perks": {
+    "priority": "Priority Reservations",
+    "discounts": "Exclusive Discounts on Events",
+    "vip": "Access to VIP Lounges",
+    "invites": "Private Invitations to Luxury Experiences"
+  },
+  "form": {
+    "login_title": "Member Login",
+    "register_title": "Join Elevate VIP",
+    "email": "Email Address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "login": "Login",
+    "register": "Register",
+    "switch_to_register": "Not a member yet? Register now",
+    "switch_to_login": "Already a member? Login here"
+  }
+}

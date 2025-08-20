@@ -1,0 +1,15 @@
+{
+  "title": "Get in Touch",
+  "intro": "We’d love to hear from you. Please reach out for reservations, private events, or general inquiries.",
+  "form": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "send": "Send Message"
+  },
+  "info": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  }
+}

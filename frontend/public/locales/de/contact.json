@@ -1,0 +1,15 @@
+{
+  "title": "Kontaktieren Sie uns",
+  "intro": "Wir freuen uns, von Ihnen zu hören. Kontaktieren Sie uns für Reservierungen, private Veranstaltungen oder allgemeine Anfragen.",
+  "form": {
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "message": "Ihre Nachricht",
+    "send": "Nachricht senden"
+  },
+  "info": {
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail"
+  }
+}

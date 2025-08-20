@@ -1,0 +1,42 @@
+{
+  "steps": {
+    "date": "Choose Date & Time",
+    "table": "Select Lounge/Table",
+    "guest": "Your Information",
+    "payment": "Secure Payment",
+    "confirmation": "Booking Confirmation"
+  },
+  "date": {
+    "label": "Select your preferred date and time",
+    "next": "Continue"
+  },
+  "table": {
+    "label": "Choose your lounge or table",
+    "availability": "Available",
+    "unavailable": "Unavailable",
+    "next": "Continue",
+    "back": "Back"
+  },
+  "guest": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "guests": "Number of Guests",
+    "next": "Continue",
+    "back": "Back"
+  },
+  "payment": {
+    "title": "Complete Your Reservation",
+    "methods": "Payment Methods",
+    "stripe": "Credit Card (Stripe)",
+    "paypal": "PayPal",
+    "klarna": "Klarna Pay Later",
+    "confirm": "Confirm & Pay",
+    "back": "Back"
+  },
+  "confirmation": {
+    "success": "Your booking is confirmed!",
+    "qr_info": "Show this QR code at the entrance for check-in.",
+    "back_home": "Return to Home"
+  }
+}

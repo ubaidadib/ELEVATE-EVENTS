@@ -1,0 +1,42 @@
+{
+  "steps": {
+    "date": "Datum & Uhrzeit wählen",
+    "table": "Lounge/Tisch auswählen",
+    "guest": "Ihre Daten",
+    "payment": "Sichere Zahlung",
+    "confirmation": "Buchungsbestätigung"
+  },
+  "date": {
+    "label": "Bitte wählen Sie Ihr gewünschtes Datum und Uhrzeit",
+    "next": "Weiter"
+  },
+  "table": {
+    "label": "Wählen Sie Ihre Lounge oder Ihren Tisch",
+    "availability": "Verfügbar",
+    "unavailable": "Nicht verfügbar",
+    "next": "Weiter",
+    "back": "Zurück"
+  },
+  "guest": {
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "guests": "Anzahl der Gäste",
+    "next": "Weiter",
+    "back": "Zurück"
+  },
+  "payment": {
+    "title": "Schließen Sie Ihre Reservierung ab",
+    "methods": "Zahlungsmethoden",
+    "stripe": "Kreditkarte (Stripe)",
+    "paypal": "PayPal",
+    "klarna": "Klarna Später Bezahlen",
+    "confirm": "Bestätigen & Bezahlen",
+    "back": "Zurück"
+  },
+  "confirmation": {
+    "success": "Ihre Buchung ist bestätigt!",
+    "qr_info": "Zeigen Sie diesen QR-Code beim Eingang für den Check-in vor.",
+    "back_home": "Zur Startseite zurückkehren"
+  }
+}

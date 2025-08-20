@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "booking": "Booking",
+    "membership": "Membership",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  
+  "footer": {
+    "rights": "© 2025 Elevate Events GmbH. All rights reserved."
+  },
+
+  "error": {
+    "404": "Page not found",
+    "500": "An unexpected error occurred"
+  }
+  
+}

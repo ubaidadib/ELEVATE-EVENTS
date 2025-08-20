@@ -1,0 +1,21 @@
+{
+  "title": "Werden Sie VIP-Mitglied",
+  "intro": "Erhalten Sie exklusiven Zugang, Premium-Vorteile und bevorzugte Reservierungen bei Elevate Events.",
+  "perks": {
+    "priority": "Bevorzugte Reservierungen",
+    "discounts": "Exklusive Rabatte auf Veranstaltungen",
+    "vip": "Zugang zu VIP-Lounges",
+    "invites": "Private Einladungen zu luxuriösen Erlebnissen"
+  },
+  "form": {
+    "login_title": "Mitglieder-Login",
+    "register_title": "VIP-Mitglied werden",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "confirm_password": "Passwort bestätigen",
+    "login": "Einloggen",
+    "register": "Registrieren",
+    "switch_to_register": "Noch kein Mitglied? Jetzt registrieren",
+    "switch_to_login": "Schon Mitglied? Hier einloggen"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "events": "Veranstaltungen",
+    "booking": "Reservierung",
+    "membership": "Mitgliedschaft",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "rights": "© 2025 Elevate Events GmbH. Alle Rechte vorbehalten."
+  },
+
+   "error": {
+    "404": "Seite nicht gefunden",
+    "500": "Ein unerwarteter Fehler ist aufgetreten"
+  }
+  
+}
